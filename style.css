@@ -1,0 +1,33 @@
+body{
+    background-color:white;
+    background-image: url("image/background.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin: 0;
+    padding: 30px 0;
+}
+.image{
+    margin: auto;
+    padding: auto;
+    height: 50px;
+    width: 50px;
+}
+.container{
+    background-image: url("image/background.png");
+    margin:auto;
+    padding:30px;
+    width:420px;
+    background-color: white;
+    border: 10px solid #c51414;
+    border-radius: 14px;
+}
+.newform
+{
+    padding:30px 20px;
+    background-color: rgb(231, 210, 228);
+    border: 7px solid #0a1c35;
+    border-radius: 10px;
+    color: black;
+    font-size: 18px;
+    box-sizing: border-box;
+}
